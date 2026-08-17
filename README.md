@@ -7,6 +7,7 @@ An Arduino-based radar system developed for aircraft and obstacle detection usin
 ## Features
 
 - Two ultrasonic sensors for distance measurement
+- 180° radar monitoring
 - Real-time aircraft and obstacle detection
 - Arduino-based sensor data acquisition
 - Serial communication between Arduino and computer
@@ -41,11 +42,3 @@ Aircraft-Detection-Radar-Arduino
 │   └── radar_gui.py
 ├── README.md
 └── LICENSE
-Applications
-Aircraft detection
-Obstacle detection
-Real-time distance monitoring
-Sensor-based surveillance
-Author
-
-Yamini
