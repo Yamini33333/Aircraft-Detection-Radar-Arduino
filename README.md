@@ -41,3 +41,11 @@ Aircraft-Detection-Radar-Arduino
 │   └── radar_gui.py
 ├── README.md
 └── LICENSE
+Applications
+Aircraft detection
+Obstacle detection
+Real-time distance monitoring
+Sensor-based surveillance
+Author
+
+Yamini
